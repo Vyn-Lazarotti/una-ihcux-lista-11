@@ -2,7 +2,7 @@ Aluno: Vinicius Amaral Lazaroti
 
 # Proposta de valor
 
-Uma ONG focada em sustentabilidade quer lançar o aplicativo "ReCiclo". O objetivo do app é conectar pessoas que possuem objetos para doar (móveis, roupas, eletrônicos, livros) com pessoas ou entidades que precisam desses materiais.
+Uma ONG focada em sustentabilidade lançou o aplicativo "ReCiclo". O objetivo do app é conectar pessoas que possuem objetos para doar (móveis, roupas, eletrônicos, livros) com pessoas ou entidades que precisam desses materiais.
 
 # Descrição das telas
 
